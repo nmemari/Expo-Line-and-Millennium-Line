@@ -9,7 +9,7 @@ const icon = L.icon({
     iconSize: [60, 60]
 })
 
-const expoLine:[number, number][] = [
+const expoLine:[number, number][][] = [
     [
         [49.28596833770496, -123.1116239890303],
         [49.28546253382044, -123.12025519065295],
